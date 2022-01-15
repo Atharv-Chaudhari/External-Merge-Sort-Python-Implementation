@@ -1,5 +1,6 @@
 # External-Merge-Sort-Python-Implementation
 
-<video src='https://github.com/Atharv-Chaudhari/External-Merge-Sort-Python-Implementation/blob/main/External_merge_sort_ppt.mp4?raw=true' width=180/>
 
-https://github.com/Atharv-Chaudhari/External-Merge-Sort-Python-Implementation/blob/master/External_merge_sort_ppt.mp4
+
+https://user-images.githubusercontent.com/61587515/149621029-1126ec3d-0235-47e6-9fa1-18e812b20a0d.mp4
+
